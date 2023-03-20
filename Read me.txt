@@ -1,0 +1,5 @@
+Name: Syed Wasif Ali
+Seat no: B20102171
+
+1. In Pdf file the quries and their results screenshots are available.
+2. Sql quries source file is also available to run the code.
